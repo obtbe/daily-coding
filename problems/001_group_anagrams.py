@@ -84,7 +84,7 @@ if __name__ == "__main__":
     print(f"Input: {basic_test}")
     print(f"Output: {group_anagrams(basic_test)}")
     
-    # Test with case variation
+    # Test with case variations
     case_test = ['eat', 'Eat', 'ate', 'Tea', 'now', 'OWN']
     print("\nCase-insensitive test:")
     print(f"Input: {case_test}")
