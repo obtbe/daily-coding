@@ -37,7 +37,7 @@ sorting preferences, and edge cases like empty strings. The optional parameters
 show how a production solution might evolve from a basic algorithm.
 
 The core lesson: often the best solution isn't the most clever, but the one that
-leverages languag e strengths while maintaining clarity.
+leverages language strengths while maintaining clarity.
 """
 
 from collections import defaultdict
